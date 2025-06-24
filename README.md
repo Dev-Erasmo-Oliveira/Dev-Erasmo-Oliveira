@@ -1,9 +1,5 @@
-## Hi there 👋
-
-<!--
-**Dev-Erasmo-Oliveira/Dev-Erasmo-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Muito prazer! Eu sou o Erasmo, deselvolvedor Backend!
+:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
