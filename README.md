@@ -4,7 +4,7 @@
   </a>
 </div>
 
-### Atualmente trabalho com a linguagem Python, utilizando Django e Django Rest Framework! Procuro sempre estar me atualizando me aperfeiçoando sobre a linguagem, acredito que um bom desenvolvedor nunca para de estudar e de aprender! 
+### Atualmente trabalho com a linguagem Python, utilizando Django e Django Rest Framework! Procuro sempre estar me atualizando e me aperfeiçoando sobre a linguagem, acredito que um bom desenvolvedor nunca para de estudar e de aprender! 
 
 ### 🤖Linguagens e Tecnologias Utilizadas 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
