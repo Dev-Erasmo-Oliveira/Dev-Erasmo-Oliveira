@@ -1,7 +1,10 @@
-<h1> Olá, muito prazer! Eu sou o Erasmo, Desenvolvedor Backend!</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=4169E1&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Erasmo!;Desenvolvedor+Back-End!%F0%9F%92%BB" alt="Typing SVG">
+  </a>
+</div>
 
 ### Atualmente trabalho com a linguagem Python, utilizando Django e Django Rest Framework! Procuro sempre estar me atualizando me aperfeiçoando sobre a linguagem, acredito que um bom desenvolvedor nunca para de estudar e de aprender! 
-
 
 ### 🤖Linguagens e Tecnologias Utilizadas 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -39,6 +42,8 @@
 </picture>
 
 ---
+
+### Vamos nos conectar!
 <p> 
     <a href="https://instagram.com/ynw_erasmo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:erasmohazzagui021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
