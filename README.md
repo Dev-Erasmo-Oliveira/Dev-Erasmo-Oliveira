@@ -12,6 +12,8 @@
 ![Django REST](https://img.shields.io/badge/-Django%20REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
 <br>
 
