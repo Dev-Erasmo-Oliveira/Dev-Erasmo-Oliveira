@@ -1,6 +1,6 @@
 <h1> Olá, muito prazer! Eu sou o Erasmo, Desenlvolvedor Backend!</h1>
 
-### Atualmente trabalho com a linguagem Python, utilizando Django e Django Rest Framework!. Procuro sempre estar me atualizando me aperfeiçoando sobre a linguagem, acredito que um bom desenvolvedor nunca para de estudar e de aprender! 
+### Atualmente trabalho com a linguagem Python, utilizando Django e Django Rest Framework! Procuro sempre estar me atualizando me aperfeiçoando sobre a linguagem, acredito que um bom desenvolvedor nunca para de estudar e de aprender! 
 
 
 ### 🤖Linguagens e Tecnologias Utilizadas 
@@ -28,9 +28,8 @@
   alt = "stats Github"
   height = "200"
   style = "padding-right: 10px;"
-  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Erasmo-Oliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&framework_count=2"
-  />
-
+  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Erasmo-Oliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
+  
 <br>
 
 ---
