@@ -1,4 +1,4 @@
-<h1> Olá, muito prazer! Eu sou o Erasmo, Desenlvolvedor Backend!</h1>
+<h1> Olá, muito prazer! Eu sou o Erasmo, Desenvolvedor Backend!</h1>
 
 ### Atualmente trabalho com a linguagem Python, utilizando Django e Django Rest Framework! Procuro sempre estar me atualizando me aperfeiçoando sobre a linguagem, acredito que um bom desenvolvedor nunca para de estudar e de aprender! 
 
