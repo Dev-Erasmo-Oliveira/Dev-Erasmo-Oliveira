@@ -19,23 +19,6 @@
 
 ---
 ### 📊 Estatísticas 
-<p>
-  <img
-  align = "left"
-  alt = "stats Github"
-  height = "200"
-  style = "padding-right: 10px;"
-  src = "https://github-readme-stats.vercel.app/api?username=Dev-Erasmo-Oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true"
-  />
-
-  <img
-  align = "center"
-  alt = "stats Github"
-  height = "200"
-  style = "padding-right: 10px;"
-  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Erasmo-Oliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>  
-<br>
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Erasmo-Oliveira/Dev-Erasmo-Oliveira/output/github-contribution-grid-snake-dark.svg">
